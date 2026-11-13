@@ -1,0 +1,26 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# VS Code / CLion 等编辑器
+.vscode/
+.idea/
+*.user
+
+# Python 虚拟环境
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 日志与临时文件
+*.log
+tmp/
